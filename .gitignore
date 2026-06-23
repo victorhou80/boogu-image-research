@@ -1,0 +1,23 @@
+# Local state
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Model and generated data
+models/
+outputs/
+data/
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
